@@ -4,7 +4,7 @@
 
 # Tutorial Svelte
 
-This project part the tutorial [Svelte Tutorial - Is it better than React?](https://www.youtube.com/watch?v=vhGiGqZ78Rs&t=2860s) in which the basics operations are used to work with a modern Javascript compiler called Svelte.
+This project part the tutorial [Svelte Tutorial - Is it better than React?](https://www.youtube.com/watch?v=vhGiGqZ78Rs&t=2860s) with the basics operations and request API from server external, which are used to work with a modern Javascript compiler called Svelte.
 
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
