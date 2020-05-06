@@ -12,8 +12,6 @@ This project part the tutorial [Svelte Tutorial - Is it better than React?](http
 ## Get started
 
 ```bash
-npm i
-cd svelte-app
 npm install
 ```
 
